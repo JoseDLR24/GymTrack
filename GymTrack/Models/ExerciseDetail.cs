@@ -11,7 +11,9 @@ namespace GymTrack.Models
         // ref to Exercise Model
         public Exercise? Exercise { get; set; }
 
+        [Range(1, 999)]
         public int Sets { get; set; }
+        [Range(1, 999)]
         public int Reps { get; set; }
 
         [Range (0, 999)]
