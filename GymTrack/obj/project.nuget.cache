@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SXxODax6ei3I+WykPUhReSIBqeC9gS7q1S4fOOMpzm+V2UnV8GDslvWqaSSZ9Ppfhf4fSXijXSVTq6MY234yjg==",
+  "dgSpecHash": "Q2wtme1Uq2v9gDZgKAdus0nPmARRT1CxWDrK8gMPXMZN9kQyKy3RB1EyCXpubeqzk96XwbG5f6s8JXW0dXFFTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jose De Los Reyes\\Desktop\\College\\3rd term - fall\\ServerSide ASP.NET\\assignments\\assignment2\\GymTrack\\GymTrack\\GymTrack.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\Jose De Los Reyes\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Jose De Los Reyes\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Jose De Los Reyes\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\Jose De Los Reyes\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.11\\microsoft.aspnetcore.authentication.google.6.0.11.nupkg.sha512",
     "C:\\Users\\Jose De Los Reyes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.9\\microsoft.aspnetcore.cryptography.internal.6.0.9.nupkg.sha512",
     "C:\\Users\\Jose De Los Reyes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.9\\microsoft.aspnetcore.cryptography.keyderivation.6.0.9.nupkg.sha512",
     "C:\\Users\\Jose De Los Reyes\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\6.0.9\\microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.9.nupkg.sha512",

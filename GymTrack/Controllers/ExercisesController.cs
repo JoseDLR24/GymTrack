@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using GymTrack.Data;
 using GymTrack.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace GymTrack.Controllers
 {
+    [Authorize]
     public class ExercisesController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -20,6 +22,7 @@ namespace GymTrack.Controllers
         }
 
         // GET: Exercises
+        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             var applicationDbContext = _context.Exercise.Include(e => e.Category);

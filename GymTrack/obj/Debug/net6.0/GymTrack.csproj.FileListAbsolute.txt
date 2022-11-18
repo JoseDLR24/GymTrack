@@ -271,3 +271,4 @@ C:\Users\Jose De Los Reyes\Desktop\College\3rd term - fall\ServerSide ASP.NET\as
 C:\Users\Jose De Los Reyes\Desktop\College\3rd term - fall\ServerSide ASP.NET\assignments\assignment2\GymTrack\GymTrack\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Jose De Los Reyes\Desktop\College\3rd term - fall\ServerSide ASP.NET\assignments\assignment2\GymTrack\GymTrack\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Jose De Los Reyes\Desktop\College\3rd term - fall\ServerSide ASP.NET\assignments\assignment2\GymTrack\GymTrack\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jose De Los Reyes\Desktop\College\3rd term - fall\ServerSide ASP.NET\assignments\assignment2\GymTrack\GymTrack\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
